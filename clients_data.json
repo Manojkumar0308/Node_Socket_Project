@@ -1,0 +1,21 @@
+{
+  "PSJCR8-5HRCxEXJcAAAC": {
+    "id": "PSJCR8-5HRCxEXJcAAAC",
+    "data": {
+      "text": "Device 2 connected",
+      "lightState": 0,
+      "temperature": 0,
+      "humidity": 0,
+      "timestamp": 26431644
+    }
+  },
+  "Tw4v90VLe-em90tGAAAD": {
+    "id": "Tw4v90VLe-em90tGAAAD",
+    "data": {
+      "text": "Connected",
+      "temperature": 26.20000076,
+      "humidity": 50,
+      "timestamp": 23372495
+    }
+  }
+}
